@@ -1,4 +1,20 @@
 {
+  "CF20183073": {
+    "contest_id": 601,
+    "language": "Java 8",
+    "path": "codeforces/601/B.java",
+    "problem_index": "B",
+    "problem_name": "Lipshitz Sequence",
+    "problem_url": "https://codeforces.com/contest/601/problem/B",
+    "submission_id": "CF20183073",
+    "submission_url": "https://codeforces.com/contest/601/submission/20183073",
+    "tags": [
+      "data structures",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Aug/26/2016 22:03"
+  },
   "CF20188560": {
     "contest_id": 603,
     "language": "Java 8",
