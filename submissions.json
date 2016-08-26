@@ -1,4 +1,20 @@
 {
+  "CF20170770": {
+    "contest_id": 599,
+    "language": "GNU C++11",
+    "path": "codeforces/599/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Spongebob and Squares",
+    "problem_url": "https://codeforces.com/contest/599/problem/D",
+    "submission_id": "CF20170770",
+    "submission_url": "https://codeforces.com/contest/599/submission/20170770",
+    "tags": [
+      "brute force",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Aug/26/2016 10:10"
+  },
   "CF20183073": {
     "contest_id": 601,
     "language": "Java 8",
