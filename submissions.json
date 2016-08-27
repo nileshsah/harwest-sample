@@ -1,4 +1,23 @@
 {
+  "CF20188560": {
+    "contest_id": 603,
+    "language": "Java 8",
+    "path": "codeforces/603/B.java",
+    "problem_index": "B",
+    "problem_name": "Moodular Arithmetic",
+    "problem_url": "https://codeforces.com/contest/603/problem/B",
+    "submission_id": "CF20188560",
+    "submission_url": "https://codeforces.com/contest/603/submission/20188560",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Aug/27/2016 07:58"
+  },
   "CF20290374": {
     "contest_id": 610,
     "language": "GNU C++14",
