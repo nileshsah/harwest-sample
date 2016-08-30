@@ -1,4 +1,22 @@
 {
+  "CF20290374": {
+    "contest_id": 610,
+    "language": "GNU C++14",
+    "path": "codeforces/610/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Vika and Segments",
+    "problem_url": "https://codeforces.com/contest/610/problem/D",
+    "submission_id": "CF20290374",
+    "submission_url": "https://codeforces.com/contest/610/submission/20290374",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "geometry",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "Aug/30/2016 23:29"
+  },
   "CF20298315": {
     "contest_id": 613,
     "language": "GNU C++14",
