@@ -1,4 +1,21 @@
 {
+  "CF20419311": {
+    "contest_id": 621,
+    "language": "GNU C++14",
+    "path": "codeforces/621/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Rat Kwesh and Cheese",
+    "problem_url": "https://codeforces.com/contest/621/problem/D",
+    "submission_id": "CF20419311",
+    "submission_url": "https://codeforces.com/contest/621/submission/20419311",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "Sep/06/2016 15:07"
+  },
   "CF20439935": {
     "contest_id": 625,
     "language": "GNU C++14",
