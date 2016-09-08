@@ -1,4 +1,22 @@
 {
+  "CF20454327": {
+    "contest_id": 650,
+    "language": "GNU C++14",
+    "path": "codeforces/650/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Image Preview",
+    "problem_url": "https://codeforces.com/contest/650/problem/B",
+    "submission_id": "CF20454327",
+    "submission_url": "https://codeforces.com/contest/650/submission/20454327",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Sep/08/2016 10:42"
+  },
   "CF20486491": {
     "contest_id": 659,
     "language": "GNU C++14",
