@@ -1,4 +1,20 @@
 {
+  "CF20514374": {
+    "contest_id": 666,
+    "language": "GNU C++11",
+    "path": "codeforces/666/B.cpp",
+    "problem_index": "B",
+    "problem_name": "World Tour",
+    "problem_url": "https://codeforces.com/contest/666/problem/B",
+    "submission_id": "CF20514374",
+    "submission_url": "https://codeforces.com/contest/666/submission/20514374",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*2000"
+    ],
+    "timestamp": "Sep/10/2016 21:35"
+  },
   "CF20520259": {
     "contest_id": 670,
     "language": "GNU C++11",
