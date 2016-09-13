@@ -1,4 +1,20 @@
 {
+  "CF20570544": {
+    "contest_id": 671,
+    "language": "GNU C++11",
+    "path": "codeforces/671/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Robin Hood",
+    "problem_url": "https://codeforces.com/contest/671/problem/B",
+    "submission_id": "CF20570544",
+    "submission_url": "https://codeforces.com/contest/671/submission/20570544",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "Sep/13/2016 17:52"
+  },
   "CF20596965": {
     "contest_id": 675,
     "language": "GNU C++11",
