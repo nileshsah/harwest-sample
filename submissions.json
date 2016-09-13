@@ -1,4 +1,20 @@
 {
+  "CF20596965": {
+    "contest_id": 675,
+    "language": "GNU C++11",
+    "path": "codeforces/675/D.cpp",
+    "problem_index": "D",
+    "problem_name": "\u0414\u0435\u0440\u0435\u0432\u043e",
+    "problem_url": "https://codeforces.com/contest/675/problem/D",
+    "submission_id": "CF20596965",
+    "submission_url": "https://codeforces.com/contest/675/submission/20596965",
+    "tags": [
+      "data structures",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Sep/13/2016 20:44"
+  },
   "CF20624526": {
     "contest_id": 676,
     "language": "GNU C++11",
