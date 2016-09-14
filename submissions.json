@@ -1,4 +1,21 @@
 {
+  "CF20624526": {
+    "contest_id": 676,
+    "language": "GNU C++11",
+    "path": "codeforces/676/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Theseus and labyrinth",
+    "problem_url": "https://codeforces.com/contest/676/problem/D",
+    "submission_id": "CF20624526",
+    "submission_url": "https://codeforces.com/contest/676/submission/20624526",
+    "tags": [
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*2000"
+    ],
+    "timestamp": "Sep/14/2016 19:48"
+  },
   "CF20763622": {
     "contest_id": 677,
     "language": "GNU C++11",
