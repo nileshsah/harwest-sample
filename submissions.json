@@ -1,4 +1,22 @@
 {
+  "CF20763622": {
+    "contest_id": 677,
+    "language": "GNU C++11",
+    "path": "codeforces/677/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Vanya and Treasure",
+    "problem_url": "https://codeforces.com/contest/677/problem/D",
+    "submission_id": "CF20763622",
+    "submission_url": "https://codeforces.com/contest/677/submission/20763622",
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "Sep/19/2016 21:25"
+  },
   "CF20771643": {
     "contest_id": 679,
     "language": "GNU C++11",
