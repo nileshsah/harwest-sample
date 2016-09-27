@@ -1,4 +1,20 @@
 {
+  "CF20953462": {
+    "contest_id": 682,
+    "language": "GNU C++11",
+    "path": "codeforces/682/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Alyona and Strings",
+    "problem_url": "https://codeforces.com/contest/682/problem/D",
+    "submission_id": "CF20953462",
+    "submission_url": "https://codeforces.com/contest/682/submission/20953462",
+    "tags": [
+      "dp",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "Sep/27/2016 20:07"
+  },
   "CF20975993": {
     "contest_id": 686,
     "language": "GNU C++11",
