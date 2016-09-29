@@ -1,4 +1,21 @@
 {
+  "CF20986821": {
+    "contest_id": 688,
+    "language": "GNU C++11",
+    "path": "codeforces/688/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Remainders Game",
+    "problem_url": "https://codeforces.com/contest/688/problem/D",
+    "submission_id": "CF20986821",
+    "submission_url": "https://codeforces.com/contest/688/submission/20986821",
+    "tags": [
+      "chinese remainder theorem",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Sep/29/2016 10:44"
+  },
   "CF21254588": {
     "contest_id": 689,
     "language": "GNU C++11",
