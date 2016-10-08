@@ -1,4 +1,22 @@
 {
+  "CF21273209": {
+    "contest_id": 696,
+    "language": "GNU C++11",
+    "path": "codeforces/696/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Puzzles",
+    "problem_url": "https://codeforces.com/contest/696/problem/B",
+    "submission_id": "CF21273209",
+    "submission_url": "https://codeforces.com/contest/696/submission/21273209",
+    "tags": [
+      "dfs and similar",
+      "math",
+      "probabilities",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Oct/08/2016 08:50"
+  },
   "CF21309498": {
     "contest_id": 698,
     "language": "GNU C++11",
