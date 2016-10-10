@@ -1,4 +1,21 @@
 {
+  "CF21331184": {
+    "contest_id": 704,
+    "language": "GNU C++11",
+    "path": "codeforces/704/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Ant Man",
+    "problem_url": "https://codeforces.com/contest/704/problem/B",
+    "submission_id": "CF21331184",
+    "submission_url": "https://codeforces.com/contest/704/submission/21331184",
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "Oct/10/2016 08:16"
+  },
   "CF21334551": {
     "contest_id": 707,
     "language": "GNU C++11",
