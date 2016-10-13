@@ -1,4 +1,20 @@
 {
+  "CF21400732": {
+    "contest_id": 716,
+    "language": "GNU C++11",
+    "path": "codeforces/716/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Complete The Graph",
+    "problem_url": "https://codeforces.com/contest/716/problem/D",
+    "submission_id": "CF21400732",
+    "submission_url": "https://codeforces.com/contest/716/submission/21400732",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "Oct/13/2016 12:45"
+  },
   "CF21602962": {
     "contest_id": 687,
     "language": "GNU C++11",
