@@ -1,4 +1,19 @@
 {
+  "CF21602962": {
+    "contest_id": 687,
+    "language": "GNU C++11",
+    "path": "codeforces/687/C.cpp",
+    "problem_index": "C",
+    "problem_name": "The Values You Can Make",
+    "problem_url": "https://codeforces.com/contest/687/problem/C",
+    "submission_id": "CF21602962",
+    "submission_url": "https://codeforces.com/contest/687/submission/21602962",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Oct/19/2016 21:35"
+  },
   "CF21604210": {
     "contest_id": 670,
     "language": "GNU C++11",
