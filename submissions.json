@@ -1,4 +1,22 @@
 {
+  "CF21755647": {
+    "contest_id": 700,
+    "language": "GNU C++11",
+    "path": "codeforces/700/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Connecting Universities",
+    "problem_url": "https://codeforces.com/contest/700/problem/B",
+    "submission_id": "CF21755647",
+    "submission_url": "https://codeforces.com/contest/700/submission/21755647",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Oct/24/2016 19:24"
+  },
   "CF21775387": {
     "contest_id": 617,
     "language": "GNU C++11",
