@@ -1,4 +1,21 @@
 {
+  "CF21791193": {
+    "contest_id": 651,
+    "language": "GNU C++11",
+    "path": "codeforces/651/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Table Compression",
+    "problem_url": "https://codeforces.com/contest/651/problem/E",
+    "submission_id": "CF21791193",
+    "submission_url": "https://codeforces.com/contest/651/submission/21791193",
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Oct/26/2016 12:05"
+  },
   "CF21847792": {
     "contest_id": 321,
     "language": "GNU C++11",
