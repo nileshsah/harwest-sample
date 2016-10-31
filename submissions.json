@@ -1,4 +1,19 @@
 {
+  "CF21920379": {
+    "contest_id": 733,
+    "language": "GNU C++11",
+    "path": "codeforces/733/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Grasshopper And the String",
+    "problem_url": "https://codeforces.com/contest/733/problem/A",
+    "submission_id": "CF21920379",
+    "submission_url": "https://codeforces.com/contest/733/submission/21920379",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Oct/31/2016 15:10"
+  },
   "CF21923729": {
     "contest_id": 733,
     "language": "GNU C++11",
