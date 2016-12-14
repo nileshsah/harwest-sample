@@ -1,4 +1,22 @@
 {
+  "CF22982686": {
+    "contest_id": 743,
+    "language": "GNU C++11",
+    "path": "codeforces/743/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Chloe and pleasant prizes",
+    "problem_url": "https://codeforces.com/contest/743/problem/D",
+    "submission_id": "CF22982686",
+    "submission_url": "https://codeforces.com/contest/743/submission/22982686",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Dec/14/2016 21:43"
+  },
   "CF23081379": {
     "contest_id": 662,
     "language": "GNU C++11",
