@@ -1,4 +1,19 @@
 {
+  "CF23219538": {
+    "contest_id": 747,
+    "language": "GNU C++11",
+    "path": "codeforces/747/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Servers",
+    "problem_url": "https://codeforces.com/contest/747/problem/C",
+    "submission_id": "CF23219538",
+    "submission_url": "https://codeforces.com/contest/747/submission/23219538",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/22/2016 08:47"
+  },
   "CF23244971": {
     "contest_id": 747,
     "language": "GNU C++11",
