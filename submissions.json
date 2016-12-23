@@ -1,4 +1,21 @@
 {
+  "CF23244971": {
+    "contest_id": 747,
+    "language": "GNU C++11",
+    "path": "codeforces/747/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Winter Is Coming",
+    "problem_url": "https://codeforces.com/contest/747/problem/D",
+    "submission_id": "CF23244971",
+    "submission_url": "https://codeforces.com/contest/747/submission/23244971",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Dec/23/2016 11:17"
+  },
   "CF23250952": {
     "contest_id": 427,
     "language": "GNU C++11",
