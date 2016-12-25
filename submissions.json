@@ -1,4 +1,21 @@
 {
+  "CF23308853": {
+    "contest_id": 752,
+    "language": "GNU C++11",
+    "path": "codeforces/752/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Santa Claus and Keyboard Check",
+    "problem_url": "https://codeforces.com/contest/752/problem/B",
+    "submission_id": "CF23308853",
+    "submission_url": "https://codeforces.com/contest/752/submission/23308853",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Dec/25/2016 13:32"
+  },
   "CF23365478": {
     "contest_id": 752,
     "language": "GNU C++11",
