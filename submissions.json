@@ -1,4 +1,21 @@
 {
+  "CF24343969": {
+    "contest_id": 242,
+    "language": "GNU C++14",
+    "path": "codeforces/242/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Dispute",
+    "problem_url": "https://codeforces.com/contest/242/problem/D",
+    "submission_id": "CF24343969",
+    "submission_url": "https://codeforces.com/contest/242/submission/24343969",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "Feb/01/2017 13:52"
+  },
   "CF24735095": {
     "contest_id": 766,
     "language": "GNU C++14",
