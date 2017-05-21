@@ -1,4 +1,19 @@
 {
+  "CF27267351": {
+    "contest_id": 805,
+    "language": "GNU C++14",
+    "path": "codeforces/805/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Minimum number of steps",
+    "problem_url": "https://codeforces.com/contest/805/problem/D",
+    "submission_id": "CF27267351",
+    "submission_url": "https://codeforces.com/contest/805/submission/27267351",
+    "tags": [
+      "combinatorics",
+      "*1400"
+    ],
+    "timestamp": "May/21/2017 14:51"
+  },
   "CF78674447": {
     "contest_id": 1348,
     "language": "GNU C++14",
